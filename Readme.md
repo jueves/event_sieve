@@ -34,4 +34,6 @@ Prompt: `What’s in this image?`
 Tabula bastante bien, se podría pulir algunos detalles como el formato de fecha o la ubicación por municipio.
 La ubicación puede pulirse con un servidor [Nominatim](https://nominatim.org/) o alguna api de mapas.
 
-A priori el mayor problema que le veo es que a veces **lee mal los logos**, pero sigue siendo bastante funcional.
+A priori el mayor problema que le veo es que a veces **lee mal los logos**. La primera vez que lee el cartel del Foresta Rock tiene problemas al pie del cartel con el logo de Barbanegra y en el segundo con el de Barbanegra y con el de Tensö.
+
+De todas formas sigue siendo bastante funcional.
